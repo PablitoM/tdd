@@ -1,0 +1,5 @@
+db.sqlite3
+virtualenv
+.idea/
+__pycache__
+*.pyc
